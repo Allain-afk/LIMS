@@ -173,11 +173,11 @@ CREATE TABLE `tblstudents` (
 --
 
 INSERT INTO `tblstudents` (`id`, `StudentId`, `FullName`, `EmailId`, `MobileNumber`, `Password`, `Status`, `RegDate`, `UpdationDate`) VALUES
-(11, '202300969', 'Allain Ralph Legaspi', 'allainralphlegaspi@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-10 16:01:03', '2025-03-11 10:30:07'),
+(11, '202300969', 'Allain Ralph Legaspi', 'allain@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-10 16:01:03', '2025-03-11 10:30:07'),
 (12, '202400578', 'Bridget', 'bri@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-11 03:05:14', NULL),
 (13, '202000129', 'Allyza', 'allyza@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-11 03:14:42', '2025-03-11 03:16:24'),
-(14, '202200154', 'Venesa Campilanan', 'ven@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-11 05:01:18', NULL),
-(15, '202300685', 'rodney', 'aves@gmail.com', '123', 'c6f057b86584942e415435ffb1fa93d4', 1, '2025-03-11 05:05:13', NULL);
+(14, '202200154', 'Venesa', 'ven@gmail.com', '123', '202cb962ac59075b964b07152d234b70', 1, '2025-03-11 05:01:18', NULL),
+(15, '202300685', 'Rodney', 'aves@gmail.com', '123', 'c6f057b86584942e415435ffb1fa93d4', 1, '2025-03-11 05:05:13', NULL);
 
 --
 -- Indexes for dumped tables
