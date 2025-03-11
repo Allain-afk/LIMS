@@ -13,35 +13,21 @@ This project is developed as part of the course **Integrative and Programming Te
 - **User-friendly Interface** – Simplifies library management for librarians.
 
 ## Technologies Used
-- **Frontend:** [Specify if applicable, e.g., HTML, CSS, JavaScript, React]
-- **Backend:** [Specify if applicable, e.g., Python, Node.js, PHP]
-- **Database:** [Specify if applicable, e.g., MySQL, Firebase, PostgreSQL]
-- **Other Tools:** [Specify if applicable, e.g., Bootstrap, Express.js]
+- **PHP**
+- **MySQL**
+- **HTML** 
+- **CSS**
+- **Javascript**
 
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/LIMS.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd LIMS
-   ```
-3. Install dependencies:
-   ```sh
-   [Insert command here, e.g., npm install, pip install -r requirements.txt]
-   ```
-4. Run the application:
-   ```sh
-   [Insert command here, e.g., npm start, python app.py]
+   git clone https://github.com/allain-afk/LIMS.git
    ```
 
 ## Contributor/s
 - **Allain Ralph M. Legaspi** – Developer
 
-## License
-This project is open-source and available under the [Insert License Name] license.
-
 ---
-Feel free to contribute or suggest improvements!
+
 
