@@ -22,7 +22,7 @@ This project is developed as part of the course **Integrative and Programming Te
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/allain-afk/LIMS.git
+   - git clone https://github.com/allain-afk/LIMS.git
    ```
 
 ## Contributor/s
