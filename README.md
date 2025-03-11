@@ -1,4 +1,4 @@
-Library Information Management System (LIMS)
+## Library Information Management System (LIMS)
 
 ## Overview
 The **Library Information Management System (LIMS)** is a digital solution designed to help librarians efficiently monitor book borrowing transactions. With this system, librarians can track which students borrow books, ensuring an organized and seamless library experience.
@@ -36,9 +36,8 @@ This project is developed as part of the course **Integrative and Programming Te
    [Insert command here, e.g., npm start, python app.py]
    ```
 
-## Contributors
-- **[Your Name]** – Developer
-- **Other Team Members (if applicable)**
+## Contributor/s
+- **Allain Ralph M. Legaspi** – Developer
 
 ## License
 This project is open-source and available under the [Insert License Name] license.
